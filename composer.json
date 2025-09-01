@@ -1,0 +1,10 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.11",
+        "paragonie/sodium_compat": "^2.1",
+        "web-token/jwt-framework": "^4.0",
+        "emarref/jwt": "^1.0",
+        "adhocore/jwt": "^1.1",
+        "auth0/auth0-php": "^8.13"
+    }
+}

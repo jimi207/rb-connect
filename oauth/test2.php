@@ -1,0 +1,16 @@
+<?php
+
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL);
+
+$token = 'eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K2p3dCIsImtpZCI6InJ6eVVDS0FjcWF1ZlF6YTFyblY4LSJ9.eyJpc3MiOiJodHRwczovL2Rldi1wdW04c250eGRwaDVwOG5sLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiI5bWp1VkJvUVd4bkhFR21Xc0ZHWFZ6M0dCWjFoSXREa0BjbGllbnRzIiwiYXVkIjoiaHR0cHM6Ly9kaXNjb3ZlcmJydW5laS5mbHlyb3lhbGJydW5laS5jb20vcmItY29ubmVjdC8iLCJpYXQiOjE3NDE3NDQ5NjAsImV4cCI6MTc0MTgzMTM2MCwianRpIjoidWtFNjFEczVKSjE5ODV5UVJkcHBmdCIsImNsaWVudF9pZCI6IjltanVWQm9RV3huSEVHbVdzRkdYVnozR0JaMWhJdERrIn0.lUD0bFXTvigm_E6gu6ZMJ9DXEhsPLOs2EJSDmzC3MQt1VEwoxaXvULdBxN61yo_EZ2-6Wtnkg19XqFLphz2-LvACAL8FlbQU6uH6LcUFTemgZZ8x15Y0euv9WAoQ5jL9SGierG2QOXCi-cP-AOrnL_YJjUIgwkShqgtx0SERN-Pf7B35VidHeCa6QMMHVRrGgCRNU4WhFTRtuoUz4wefjbyHYCVLVPY9gMKf0nU0DCaB3NRZK_vN6xAOHwig7Rq0dXVDcCGpV_l2LeXmtDmTjJHaw5BYLw24DVy8ZLz27IUFYfxyOHMBzHfnJQEpfin31ickLjmoyUzuK7rLiqjGtw';
+
+
+list($header, $payload, $signature) = explode('.', $token);
+$jsonToken = base64_decode($payload);
+$arrayToken = json_decode($jsonToken, true);
+print_r($arrayToken);
+
+$json = json_encode($jsonToken);
+$data = json_decode($json);

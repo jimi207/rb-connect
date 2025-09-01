@@ -1,0 +1,1042 @@
+[
+  [
+    {
+      "airTraveler": {
+        "accompaniedByInfant": "false",
+        "birthDate": "1992-08-08T00:00:00+08:00",
+        "companyInfo": "",
+        "contactPerson": {
+          "shareContactInfo": "false",
+          "shareMarketInd": "false",
+          "useForInvoicing": "false"
+        },
+        "custLoyalty": {
+          "expireDateExclusive": "false",
+          "loginVerified": "false",
+          "membershipID": "165787624"
+        },
+        "gender": "F",
+        "hasStrecher": "false",
+        "nationality": {
+          "locationCode": "BN"
+        },
+        "parentSequence": "-1",
+        "passengerTypeCode": "ADLT",
+        "passportNumber": "8876666B",
+        "personName": {
+          "givenName": "JODIE",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "KING"
+        },
+        "personNameEN": {
+          "givenName": "JODIE",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "KING"
+        },
+        "requestedSeatCount": "1",
+        "shareMarketInd": "false",
+        "specialPassengerCode": "MS",
+        "travelerReferenceID": "17859815",
+        "unaccompaniedMinor": "false"
+      },
+      "consumedAtIssuence": "false",
+      "couponFlightSegment": {
+        "actionCode": "HK",
+        "addOnSegment": "false",
+        "bookingClass": {
+          "cabin": "ECONOMY",
+          "resBookDesigCode": "U",
+          "resBookDesigQuantity": "0"
+        },
+        "fareInfo": {
+          "cabin": "ECONOMY",
+          "cabinClassCode": "Y",
+          "fareBaggageAllowance": {
+            "allowanceType": "WEIGHT",
+            "maxAllowedPieces": "0",
+            "maxAllowedWeight": {
+              "unitOfMeasureCode": "KG",
+              "weight": "30"
+            }
+          },
+          "fareGroupName": "RB VALUE",
+          "fareReferenceCode": "UERTBNO",
+          "fareReferenceID": "14e6709981db5f9bff45d07167b12f60b3f09b4ddc15da13cfddb806a701fd07052c24134686a18ec656bb5bc71913be7e797cf64d2ca5f1d20364834dd9cc16b5a1c4e55bfee8d53eaeb8",
+          "fareReferenceName": "UERTBNO",
+          "flightSegmentSequence": "0",
+          "resBookDesigCode": "U"
+        },
+        "flightSegment": {
+          "airline": {
+            "code": "BI",
+            "codeContext": "IATA"
+          },
+          "arrivalAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "KUL",
+                "locationName": "Kuala Lumpur",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "MY",
+                "locationName": "Malaysia",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "MYR"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "KUL",
+            "locationName": "Kuala Lumpur Int Airport- KUL",
+            "timeZoneInfo": "Asia/Kuala_Lumpur"
+          },
+          "arrivalDateTime": "2025-08-12T20:25:00+08:00",
+          "arrivalDateTimeUTC": "2025-08-12T12:25:00+08:00",
+          "departureAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "BWN",
+                "locationName": "Bandar Seri Beg",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "BN",
+                "locationName": "Brunei",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "BND"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "BWN",
+            "locationName": "Brunei Int. Airport - BWN",
+            "timeZoneInfo": "Asia/Brunei"
+          },
+          "departureDateTime": "2025-08-12T17:55:00+08:00",
+          "departureDateTimeUTC": "2025-08-12T09:55:00+08:00",
+          "flightNumber": "873",
+          "flightSegmentID": "1308797",
+          "ondControlled": "false",
+          "sector": "INTERNATIONAL",
+          "accumulatedDuration": "",
+          "codeshare": "false",
+          "distance": "1498",
+          "equipment": {
+            "airEquipType": "A320-251N",
+            "changeofGauge": "false"
+          },
+          "flownMileageQty": "0",
+          "groundDuration": "",
+          "iatciFlight": "false",
+          "journeyDuration": "PT2H30M",
+          "onTimeRate": "0",
+          "secureFlightDataRequired": "false",
+          "segmentStatusByFirstLeg": "RZ",
+          "stopQuantity": "0",
+          "trafficRestriction": {
+            "code": "",
+            "explanation": ""
+          }
+        },
+        "involuntaryPermissionGiven": "false",
+        "legStatus": "RZ",
+        "referenceID": "17436995",
+        "responseCode": "HK",
+        "sequenceNumber": "1",
+        "status": "OK"
+      },
+      "couponNumber": "1",
+      "couponStatus": "O",
+      "cpnIsn": "26674271",
+      "noShow": "false",
+      "notValidAfter": "2025-08-12T00:00:00+08:00",
+      "notValidBefore": "2025-08-12T00:00:00+08:00",
+      "seatName": "38C",
+      "ticketDocumentNbr": "6722400336807"
+    },
+    {
+      "airTraveler": {
+        "accompaniedByInfant": "false",
+        "birthDate": "1992-08-08T00:00:00+08:00",
+        "companyInfo": "",
+        "contactPerson": {
+          "shareContactInfo": "false",
+          "shareMarketInd": "false",
+          "useForInvoicing": "false"
+        },
+        "custLoyalty": {
+          "expireDateExclusive": "false",
+          "loginVerified": "false",
+          "membershipID": "165787624"
+        },
+        "gender": "F",
+        "hasStrecher": "false",
+        "nationality": {
+          "locationCode": "BN"
+        },
+        "parentSequence": "-1",
+        "passengerTypeCode": "ADLT",
+        "passportNumber": "8876666B",
+        "personName": {
+          "givenName": "JODIE",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "KING"
+        },
+        "personNameEN": {
+          "givenName": "JODIE",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "KING"
+        },
+        "requestedSeatCount": "1",
+        "shareMarketInd": "false",
+        "specialPassengerCode": "MS",
+        "travelerReferenceID": "17859815",
+        "unaccompaniedMinor": "false"
+      },
+      "consumedAtIssuence": "false",
+      "couponFlightSegment": {
+        "actionCode": "HK",
+        "addOnSegment": "false",
+        "bookingClass": {
+          "cabin": "ECONOMY",
+          "resBookDesigCode": "U",
+          "resBookDesigQuantity": "0"
+        },
+        "fareInfo": {
+          "cabin": "ECONOMY",
+          "cabinClassCode": "Y",
+          "fareBaggageAllowance": {
+            "allowanceType": "WEIGHT",
+            "maxAllowedPieces": "0",
+            "maxAllowedWeight": {
+              "unitOfMeasureCode": "KG",
+              "weight": "30"
+            }
+          },
+          "fareGroupName": "RB VALUE",
+          "fareReferenceCode": "UERTBNO",
+          "fareReferenceID": "14e6709981db5f9bff45d07167b12e66b3f09b19d24d874998debc51f507fc01502a281643d7fbdfc353ea56c71f47e37f2e7fa2452cf6f6865567f242eeaaed74e351d82574cf8fa8113f",
+          "fareReferenceName": "UERTBNO",
+          "flightSegmentSequence": "0",
+          "resBookDesigCode": "U"
+        },
+        "flightSegment": {
+          "airline": {
+            "code": "BI",
+            "codeContext": "IATA"
+          },
+          "arrivalAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "BWN",
+                "locationName": "Bandar Seri Beg",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "BN",
+                "locationName": "Brunei",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "BND"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "BWN",
+            "locationName": "Brunei Int. Airport - BWN",
+            "timeZoneInfo": "Asia/Brunei"
+          },
+          "arrivalDateTime": "2025-08-15T23:40:00+08:00",
+          "arrivalDateTimeUTC": "2025-08-15T15:40:00+08:00",
+          "departureAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "KUL",
+                "locationName": "Kuala Lumpur",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "MY",
+                "locationName": "Malaysia",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "MYR"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "KUL",
+            "locationName": "Kuala Lumpur Int Airport- KUL",
+            "timeZoneInfo": "Asia/Kuala_Lumpur"
+          },
+          "departureDateTime": "2025-08-15T21:15:00+08:00",
+          "departureDateTimeUTC": "2025-08-15T13:15:00+08:00",
+          "flightNumber": "874",
+          "flightSegmentID": "1308919",
+          "ondControlled": "false",
+          "sector": "INTERNATIONAL",
+          "accumulatedDuration": "",
+          "codeshare": "false",
+          "distance": "1498",
+          "equipment": {
+            "airEquipType": "A320-251N",
+            "changeofGauge": "false"
+          },
+          "flownMileageQty": "0",
+          "groundDuration": "",
+          "iatciFlight": "false",
+          "journeyDuration": "PT2H25M",
+          "onTimeRate": "0",
+          "secureFlightDataRequired": "false",
+          "segmentStatusByFirstLeg": "RZ",
+          "stopQuantity": "0",
+          "trafficRestriction": {
+            "code": "",
+            "explanation": ""
+          }
+        },
+        "involuntaryPermissionGiven": "false",
+        "legStatus": "RZ",
+        "referenceID": "17436996",
+        "responseCode": "HK",
+        "sequenceNumber": "2",
+        "status": "OK"
+      },
+      "couponNumber": "2",
+      "couponStatus": "O",
+      "cpnIsn": "26674274",
+      "noShow": "false",
+      "notValidAfter": "2025-08-15T00:00:00+08:00",
+      "notValidBefore": "2025-08-15T00:00:00+08:00",
+      "seatName": "",
+      "ticketDocumentNbr": "6722400336807"
+    }
+  ],
+  [
+    {
+      "airTraveler": {
+        "accompaniedByInfant": "false",
+        "birthDate": "1986-04-26T00:00:00+08:00",
+        "companyInfo": "",
+        "contactPerson": {
+          "shareContactInfo": "false",
+          "shareMarketInd": "false",
+          "useForInvoicing": "false"
+        },
+        "custLoyalty": {
+          "expireDateExclusive": "false",
+          "loginVerified": "false",
+          "membershipID": "165787646"
+        },
+        "gender": "F",
+        "hasStrecher": "false",
+        "nationality": {
+          "locationCode": "BN"
+        },
+        "parentSequence": "-1",
+        "passengerTypeCode": "ADLT",
+        "passportNumber": "E3454334",
+        "personName": {
+          "givenName": "BENTON",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "FATMA"
+        },
+        "personNameEN": {
+          "givenName": "BENTON",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "FATMA"
+        },
+        "requestedSeatCount": "1",
+        "shareMarketInd": "false",
+        "specialPassengerCode": "MS",
+        "travelerReferenceID": "17859816",
+        "unaccompaniedMinor": "false"
+      },
+      "consumedAtIssuence": "false",
+      "couponFlightSegment": {
+        "actionCode": "HK",
+        "addOnSegment": "false",
+        "bookingClass": {
+          "cabin": "ECONOMY",
+          "resBookDesigCode": "U",
+          "resBookDesigQuantity": "0"
+        },
+        "fareInfo": {
+          "cabin": "ECONOMY",
+          "cabinClassCode": "Y",
+          "fareBaggageAllowance": {
+            "allowanceType": "WEIGHT",
+            "maxAllowedPieces": "0",
+            "maxAllowedWeight": {
+              "unitOfMeasureCode": "KG",
+              "weight": "30"
+            }
+          },
+          "fareGroupName": "RB VALUE",
+          "fareReferenceCode": "UERTBNO",
+          "fareReferenceID": "14e6709981db5f9bff45d07167b12d6cb3f09b4ddc15da13cfddb806a701fd07052c24134686a18ec656bb5bc71913be7e797cf64d2ca5f1d203642c50ffcbe9eb0e81c25d56d33119ef0d",
+          "fareReferenceName": "UERTBNO",
+          "flightSegmentSequence": "0",
+          "resBookDesigCode": "U"
+        },
+        "flightSegment": {
+          "airline": {
+            "code": "BI",
+            "codeContext": "IATA"
+          },
+          "arrivalAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "KUL",
+                "locationName": "Kuala Lumpur",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "MY",
+                "locationName": "Malaysia",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "MYR"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "KUL",
+            "locationName": "Kuala Lumpur Int Airport- KUL",
+            "timeZoneInfo": "Asia/Kuala_Lumpur"
+          },
+          "arrivalDateTime": "2025-08-12T20:25:00+08:00",
+          "arrivalDateTimeUTC": "2025-08-12T12:25:00+08:00",
+          "departureAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "BWN",
+                "locationName": "Bandar Seri Beg",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "BN",
+                "locationName": "Brunei",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "BND"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "BWN",
+            "locationName": "Brunei Int. Airport - BWN",
+            "timeZoneInfo": "Asia/Brunei"
+          },
+          "departureDateTime": "2025-08-12T17:55:00+08:00",
+          "departureDateTimeUTC": "2025-08-12T09:55:00+08:00",
+          "flightNumber": "873",
+          "flightSegmentID": "1308797",
+          "ondControlled": "false",
+          "sector": "INTERNATIONAL",
+          "accumulatedDuration": "",
+          "codeshare": "false",
+          "distance": "1498",
+          "equipment": {
+            "airEquipType": "A320-251N",
+            "changeofGauge": "false"
+          },
+          "flownMileageQty": "0",
+          "groundDuration": "",
+          "iatciFlight": "false",
+          "journeyDuration": "PT2H30M",
+          "onTimeRate": "0",
+          "secureFlightDataRequired": "false",
+          "segmentStatusByFirstLeg": "RZ",
+          "stopQuantity": "0",
+          "trafficRestriction": {
+            "code": "",
+            "explanation": ""
+          }
+        },
+        "involuntaryPermissionGiven": "false",
+        "legStatus": "RZ",
+        "referenceID": "17436995",
+        "responseCode": "HK",
+        "sequenceNumber": "1",
+        "status": "OK"
+      },
+      "couponNumber": "1",
+      "couponStatus": "O",
+      "cpnIsn": "26674272",
+      "noShow": "false",
+      "notValidAfter": "2025-08-12T00:00:00+08:00",
+      "notValidBefore": "2025-08-12T00:00:00+08:00",
+      "seatName": "38B",
+      "ticketDocumentNbr": "6722400336808"
+    },
+    {
+      "airTraveler": {
+        "accompaniedByInfant": "false",
+        "birthDate": "1986-04-26T00:00:00+08:00",
+        "companyInfo": "",
+        "contactPerson": {
+          "shareContactInfo": "false",
+          "shareMarketInd": "false",
+          "useForInvoicing": "false"
+        },
+        "custLoyalty": {
+          "expireDateExclusive": "false",
+          "loginVerified": "false",
+          "membershipID": "165787646"
+        },
+        "gender": "F",
+        "hasStrecher": "false",
+        "nationality": {
+          "locationCode": "BN"
+        },
+        "parentSequence": "-1",
+        "passengerTypeCode": "ADLT",
+        "passportNumber": "E3454334",
+        "personName": {
+          "givenName": "BENTON",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "FATMA"
+        },
+        "personNameEN": {
+          "givenName": "BENTON",
+          "nameTitle": "MS",
+          "shareMarketInd": "false",
+          "surname": "FATMA"
+        },
+        "requestedSeatCount": "1",
+        "shareMarketInd": "false",
+        "specialPassengerCode": "MS",
+        "travelerReferenceID": "17859816",
+        "unaccompaniedMinor": "false"
+      },
+      "consumedAtIssuence": "false",
+      "couponFlightSegment": {
+        "actionCode": "HK",
+        "addOnSegment": "false",
+        "bookingClass": {
+          "cabin": "ECONOMY",
+          "resBookDesigCode": "U",
+          "resBookDesigQuantity": "0"
+        },
+        "fareInfo": {
+          "cabin": "ECONOMY",
+          "cabinClassCode": "Y",
+          "fareBaggageAllowance": {
+            "allowanceType": "WEIGHT",
+            "maxAllowedPieces": "0",
+            "maxAllowedWeight": {
+              "unitOfMeasureCode": "KG",
+              "weight": "30"
+            }
+          },
+          "fareGroupName": "RB VALUE",
+          "fareReferenceCode": "UERTBNO",
+          "fareReferenceID": "14e6709981db5f9bff45d07167b12c62b3f09b19d24d874998debc51f507fc01502a281643d7fbdfc353ea56c71f47e37f2e7fa2452cf6f6865567120c5579f78af53f13d5f2b11b3c673d",
+          "fareReferenceName": "UERTBNO",
+          "flightSegmentSequence": "0",
+          "resBookDesigCode": "U"
+        },
+        "flightSegment": {
+          "airline": {
+            "code": "BI",
+            "codeContext": "IATA"
+          },
+          "arrivalAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "BWN",
+                "locationName": "Bandar Seri Beg",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "BN",
+                "locationName": "Brunei",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "BND"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "BWN",
+            "locationName": "Brunei Int. Airport - BWN",
+            "timeZoneInfo": "Asia/Brunei"
+          },
+          "arrivalDateTime": "2025-08-15T23:40:00+08:00",
+          "arrivalDateTimeUTC": "2025-08-15T15:40:00+08:00",
+          "departureAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "KUL",
+                "locationName": "Kuala Lumpur",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "MY",
+                "locationName": "Malaysia",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "MYR"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "KUL",
+            "locationName": "Kuala Lumpur Int Airport- KUL",
+            "timeZoneInfo": "Asia/Kuala_Lumpur"
+          },
+          "departureDateTime": "2025-08-15T21:15:00+08:00",
+          "departureDateTimeUTC": "2025-08-15T13:15:00+08:00",
+          "flightNumber": "874",
+          "flightSegmentID": "1308919",
+          "ondControlled": "false",
+          "sector": "INTERNATIONAL",
+          "accumulatedDuration": "",
+          "codeshare": "false",
+          "distance": "1498",
+          "equipment": {
+            "airEquipType": "A320-251N",
+            "changeofGauge": "false"
+          },
+          "flownMileageQty": "0",
+          "groundDuration": "",
+          "iatciFlight": "false",
+          "journeyDuration": "PT2H25M",
+          "onTimeRate": "0",
+          "secureFlightDataRequired": "false",
+          "segmentStatusByFirstLeg": "RZ",
+          "stopQuantity": "0",
+          "trafficRestriction": {
+            "code": "",
+            "explanation": ""
+          }
+        },
+        "involuntaryPermissionGiven": "false",
+        "legStatus": "RZ",
+        "referenceID": "17436996",
+        "responseCode": "HK",
+        "sequenceNumber": "2",
+        "status": "OK"
+      },
+      "couponNumber": "2",
+      "couponStatus": "O",
+      "cpnIsn": "26674275",
+      "noShow": "false",
+      "notValidAfter": "2025-08-15T00:00:00+08:00",
+      "notValidBefore": "2025-08-15T00:00:00+08:00",
+      "seatName": "",
+      "ticketDocumentNbr": "6722400336808"
+    }
+  ],
+  [
+    {
+      "airTraveler": {
+        "accompaniedByInfant": "false",
+        "birthDate": "2002-08-31T00:00:00+08:00",
+        "companyInfo": "",
+        "contactPerson": {
+          "shareContactInfo": "false",
+          "shareMarketInd": "false",
+          "useForInvoicing": "false"
+        },
+        "gender": "M",
+        "hasStrecher": "false",
+        "nationality": {
+          "locationCode": "BN"
+        },
+        "parentSequence": "-1",
+        "passengerTypeCode": "ADLT",
+        "passportNumber": "D345325223",
+        "personName": {
+          "givenName": "JIMI",
+          "nameTitle": "MR",
+          "shareMarketInd": "false",
+          "surname": "SULAIMAN"
+        },
+        "personNameEN": {
+          "givenName": "JIMI",
+          "nameTitle": "MR",
+          "shareMarketInd": "false",
+          "surname": "SULAIMAN"
+        },
+        "requestedSeatCount": "1",
+        "shareMarketInd": "false",
+        "specialPassengerCode": "MR",
+        "travelerReferenceID": "17859817",
+        "unaccompaniedMinor": "false"
+      },
+      "consumedAtIssuence": "false",
+      "couponFlightSegment": {
+        "actionCode": "HK",
+        "addOnSegment": "false",
+        "bookingClass": {
+          "cabin": "ECONOMY",
+          "resBookDesigCode": "U",
+          "resBookDesigQuantity": "0"
+        },
+        "fareInfo": {
+          "cabin": "ECONOMY",
+          "cabinClassCode": "Y",
+          "fareBaggageAllowance": {
+            "allowanceType": "WEIGHT",
+            "maxAllowedPieces": "0",
+            "maxAllowedWeight": {
+              "unitOfMeasureCode": "KG",
+              "weight": "30"
+            }
+          },
+          "fareGroupName": "RB VALUE",
+          "fareReferenceCode": "UERTBNO",
+          "fareReferenceID": "14e6709981db5f9bff45d07167b12a61b3f09b4ddc15da13cfddb806a701fd07052c24134686a18ec656bb5bc71913be7e797cf64d2ca5f1d203649cdafa98ee4a066a7d17d13634d5e510",
+          "fareReferenceName": "UERTBNO",
+          "flightSegmentSequence": "0",
+          "resBookDesigCode": "U"
+        },
+        "flightSegment": {
+          "airline": {
+            "code": "BI",
+            "codeContext": "IATA"
+          },
+          "arrivalAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "KUL",
+                "locationName": "Kuala Lumpur",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "MY",
+                "locationName": "Malaysia",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "MYR"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "KUL",
+            "locationName": "Kuala Lumpur Int Airport- KUL",
+            "timeZoneInfo": "Asia/Kuala_Lumpur"
+          },
+          "arrivalDateTime": "2025-08-12T20:25:00+08:00",
+          "arrivalDateTimeUTC": "2025-08-12T12:25:00+08:00",
+          "departureAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "BWN",
+                "locationName": "Bandar Seri Beg",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "BN",
+                "locationName": "Brunei",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "BND"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "BWN",
+            "locationName": "Brunei Int. Airport - BWN",
+            "timeZoneInfo": "Asia/Brunei"
+          },
+          "departureDateTime": "2025-08-12T17:55:00+08:00",
+          "departureDateTimeUTC": "2025-08-12T09:55:00+08:00",
+          "flightNumber": "873",
+          "flightSegmentID": "1308797",
+          "ondControlled": "false",
+          "sector": "INTERNATIONAL",
+          "accumulatedDuration": "",
+          "codeshare": "false",
+          "distance": "1498",
+          "equipment": {
+            "airEquipType": "A320-251N",
+            "changeofGauge": "false"
+          },
+          "flownMileageQty": "0",
+          "groundDuration": "",
+          "iatciFlight": "false",
+          "journeyDuration": "PT2H30M",
+          "onTimeRate": "0",
+          "secureFlightDataRequired": "false",
+          "segmentStatusByFirstLeg": "RZ",
+          "stopQuantity": "0",
+          "trafficRestriction": {
+            "code": "",
+            "explanation": ""
+          }
+        },
+        "involuntaryPermissionGiven": "false",
+        "legStatus": "RZ",
+        "referenceID": "17436995",
+        "responseCode": "HK",
+        "sequenceNumber": "1",
+        "status": "OK"
+      },
+      "couponNumber": "1",
+      "couponStatus": "O",
+      "cpnIsn": "26674273",
+      "noShow": "false",
+      "notValidAfter": "2025-08-12T00:00:00+08:00",
+      "notValidBefore": "2025-08-12T00:00:00+08:00",
+      "seatName": "38A",
+      "ticketDocumentNbr": "6722400336809"
+    },
+    {
+      "airTraveler": {
+        "accompaniedByInfant": "false",
+        "birthDate": "2002-08-31T00:00:00+08:00",
+        "companyInfo": "",
+        "contactPerson": {
+          "shareContactInfo": "false",
+          "shareMarketInd": "false",
+          "useForInvoicing": "false"
+        },
+        "gender": "M",
+        "hasStrecher": "false",
+        "nationality": {
+          "locationCode": "BN"
+        },
+        "parentSequence": "-1",
+        "passengerTypeCode": "ADLT",
+        "passportNumber": "D345325223",
+        "personName": {
+          "givenName": "JIMI",
+          "nameTitle": "MR",
+          "shareMarketInd": "false",
+          "surname": "SULAIMAN"
+        },
+        "personNameEN": {
+          "givenName": "JIMI",
+          "nameTitle": "MR",
+          "shareMarketInd": "false",
+          "surname": "SULAIMAN"
+        },
+        "requestedSeatCount": "1",
+        "shareMarketInd": "false",
+        "specialPassengerCode": "MR",
+        "travelerReferenceID": "17859817",
+        "unaccompaniedMinor": "false"
+      },
+      "consumedAtIssuence": "false",
+      "couponFlightSegment": {
+        "actionCode": "HK",
+        "addOnSegment": "false",
+        "bookingClass": {
+          "cabin": "ECONOMY",
+          "resBookDesigCode": "U",
+          "resBookDesigQuantity": "0"
+        },
+        "fareInfo": {
+          "cabin": "ECONOMY",
+          "cabinClassCode": "Y",
+          "fareBaggageAllowance": {
+            "allowanceType": "WEIGHT",
+            "maxAllowedPieces": "0",
+            "maxAllowedWeight": {
+              "unitOfMeasureCode": "KG",
+              "weight": "30"
+            }
+          },
+          "fareGroupName": "RB VALUE",
+          "fareReferenceCode": "UERTBNO",
+          "fareReferenceID": "14e6709981db5f9bff45d07167b12967b3f09b19d24d874998debc51f507fc01502a281643d7fbdfc353ea56c71f47e37f2e7fa2452cf6f6865567cb32b8c77da50e047de2ca4d428eb74e",
+          "fareReferenceName": "UERTBNO",
+          "flightSegmentSequence": "0",
+          "resBookDesigCode": "U"
+        },
+        "flightSegment": {
+          "airline": {
+            "code": "BI",
+            "codeContext": "IATA"
+          },
+          "arrivalAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "BWN",
+                "locationName": "Bandar Seri Beg",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "BN",
+                "locationName": "Brunei",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "BND"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "BWN",
+            "locationName": "Brunei Int. Airport - BWN",
+            "timeZoneInfo": "Asia/Brunei"
+          },
+          "arrivalDateTime": "2025-08-15T23:40:00+08:00",
+          "arrivalDateTimeUTC": "2025-08-15T15:40:00+08:00",
+          "departureAirport": {
+            "cityInfo": {
+              "city": {
+                "locationCode": "KUL",
+                "locationName": "Kuala Lumpur",
+                "locationNameLanguage": "EN"
+              },
+              "country": {
+                "locationCode": "MY",
+                "locationName": "Malaysia",
+                "locationNameLanguage": "EN",
+                "currency": {
+                  "code": "MYR"
+                }
+              }
+            },
+            "codeContext": "IATA",
+            "language": "EN",
+            "locationCode": "KUL",
+            "locationName": "Kuala Lumpur Int Airport- KUL",
+            "timeZoneInfo": "Asia/Kuala_Lumpur"
+          },
+          "departureDateTime": "2025-08-15T21:15:00+08:00",
+          "departureDateTimeUTC": "2025-08-15T13:15:00+08:00",
+          "flightNumber": "874",
+          "flightSegmentID": "1308919",
+          "ondControlled": "false",
+          "sector": "INTERNATIONAL",
+          "accumulatedDuration": "",
+          "codeshare": "false",
+          "distance": "1498",
+          "equipment": {
+            "airEquipType": "A320-251N",
+            "changeofGauge": "false"
+          },
+          "flownMileageQty": "0",
+          "groundDuration": "",
+          "iatciFlight": "false",
+          "journeyDuration": "PT2H25M",
+          "onTimeRate": "0",
+          "secureFlightDataRequired": "false",
+          "segmentStatusByFirstLeg": "RZ",
+          "stopQuantity": "0",
+          "trafficRestriction": {
+            "code": "",
+            "explanation": ""
+          }
+        },
+        "involuntaryPermissionGiven": "false",
+        "legStatus": "RZ",
+        "referenceID": "17436996",
+        "responseCode": "HK",
+        "sequenceNumber": "2",
+        "status": "OK"
+      },
+      "couponNumber": "2",
+      "couponStatus": "O",
+      "cpnIsn": "26674276",
+      "noShow": "false",
+      "notValidAfter": "2025-08-15T00:00:00+08:00",
+      "notValidBefore": "2025-08-15T00:00:00+08:00",
+      "seatName": "",
+      "ticketDocumentNbr": "6722400336809"
+    }
+  ],
+  {
+    "airTraveler": {
+      "accompaniedByInfant": "false",
+      "birthDate": "1992-08-08T00:00:00+08:00",
+      "companyInfo": "",
+      "contactPerson": {
+        "shareContactInfo": "false",
+        "shareMarketInd": "false",
+        "useForInvoicing": "false"
+      },
+      "custLoyalty": {
+        "expireDateExclusive": "false",
+        "loginVerified": "false",
+        "membershipID": "165787624"
+      },
+      "gender": "F",
+      "hasStrecher": "false",
+      "nationality": {
+        "locationCode": "BN"
+      },
+      "parentSequence": "-1",
+      "passengerTypeCode": "ADLT",
+      "passportNumber": "8876666B",
+      "personName": {
+        "givenName": "JODIE",
+        "nameTitle": "MS",
+        "shareMarketInd": "false",
+        "surname": "KING"
+      },
+      "personNameEN": {
+        "givenName": "JODIE",
+        "nameTitle": "MS",
+        "shareMarketInd": "false",
+        "surname": "KING"
+      },
+      "requestedSeatCount": "1",
+      "shareMarketInd": "false",
+      "specialPassengerCode": "MS",
+      "travelerReferenceID": "17859815",
+      "unaccompaniedMinor": "false"
+    },
+    "asvcSsr": {
+      "airTravelerSequence": "0",
+      "flightSegmentSequence": "0",
+      "serviceQuantity": "0",
+      "ticketed": "false",
+      "amount": {
+        "currency": {
+          "code": "BND"
+        },
+        "mileAmount": "0.0",
+        "value": "129.0"
+      },
+      "emdCouponNumber": "1",
+      "emdTicketNumber": "6724200178741",
+      "emdType": "S",
+      "exchangable": "false",
+      "hepstarPolicyNumber": "HSM20250308024343434338",
+      "itineraryInfoCode": "INSH",
+      "reasonForIssuanceCode": "I",
+      "reasonForIssuanceExplanation": "Individual Airline Use",
+      "reasonForIssuanceSubCode": "INH",
+      "reasonForIssuanceSubExplanation": "Travel Protection",
+      "refundable": "true",
+      "serviceDate": "2025-03-08T00:00:00+08:00",
+      "serviceLocation": "BWN",
+      "ssrSequence": "0"
+    },
+    "consumedAtIssuence": "true",
+    "couponNumber": "1",
+    "couponStatus": "F",
+    "cpnIsn": "26674277",
+    "noShow": "false",
+    "notValidAfter": "2026-03-08T00:00:00+08:00",
+    "notValidBefore": "2025-03-08T00:00:00+08:00",
+    "seatName": "",
+    "ticketDocumentNbr": "6724200178741"
+  }
+]
