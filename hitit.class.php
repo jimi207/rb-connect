@@ -49,7 +49,7 @@ class Hitit
             $nodeInfo[] = new SoapVar("129.0.0.1", XSD_STRING, null, null, 'clientIP');
             $nodeInfo[] = new SoapVar('false', XSD_STRING, null, null, 'member');
             $nodeInfo[] = new SoapVar("A2920_BWN54", XSD_STRING, null, null, 'userName');
-            $nodeInfo[] = new SoapVar('$Happy1994', XSD_STRING, null, null, 'password');
+            $nodeInfo[] = new SoapVar('$Happy1996', XSD_STRING, null, null, 'password');
 
             //$nodeClient[] = new SoapVar($nodeInfo, SOAP_ENC_OBJECT, null, null, 'ID');
 
@@ -67,6 +67,7 @@ class Hitit
 
             $response = $client->__soapCall("ReadBooking", array($params));
             //echo json_encode($response);
+            //exit();
 
 
             $json = json_encode($response);

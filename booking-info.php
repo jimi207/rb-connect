@@ -41,6 +41,16 @@ function getBearerToken()
     return null;
 }
 
+function triggerError($message)
+{
+    header("HTTP/1.1 400 Invalid Request");
+    $myObj = new stdClass();
+    $myObj->error_code = "1004";
+    $myObj->error_msg = $message;
+    echo json_encode($myObj);
+    exit();
+}
+
 header('Content-Type: application/json; charset=utf-8');
 
 $token = getBearerToken();
@@ -143,7 +153,9 @@ $errorMessage = "";
 $errorCode = "";
 
 $isFlightMatch = false;
+$pnrData = "";
 foreach ($coupons as $object) {
+    $pnrData = json_encode($object);
     if ($flightNoInput === 'BI' . $object["flightNumber"] && substr($object["departureDateTimeUTC"], 0, 11) === substr($depDateInput, 0, 11)) {
         $isFlightMatch = true;
         break;
@@ -159,25 +171,17 @@ foreach ($members as $object) {
 }
 
 if ($pnrInput == "" || $lastNameInput == "" || $depDateInput == null || $flightNoInput == null || $userDetailsArray == null) {
-    $errorMessage = "Invalid Input";
+    triggerError("Invalid Input");
 }
 
 if ($isFlightMatch == false) {
-    $errorMessage = "Flight not found";
+    triggerError("Flight not found. Input: " . $flightNoInput . " Date: " . $depDateInput . " [PNR] " . $pnrData);
 }
 
 if ($isFfpMember == false) {
-    $errorMessage = "FFP Member not found";
+    triggerError("FFP Member not found");
 }
 
-if ($errorMessage != "") {
-    header("HTTP/1.1 400 Invalid Request");
-    $myObj = new stdClass();
-    $myObj->error_code = "1004";
-    $myObj->error_msg = $errorMessage;
-    echo json_encode($myObj);
-    exit();
-}
 
 $strCustomerID = "SPONSOR/" . $pnrInput . "_" . $flightNoInput . "_" . $lastNameInput . "_XXX";
 
